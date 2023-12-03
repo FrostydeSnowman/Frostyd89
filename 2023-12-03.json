@@ -1,0 +1,26 @@
+{
+  "name": "Sarah Beck",
+  "age": 51,
+  "address": {
+    "street": "Fiiga Lane",
+    "city": "Neowsi",
+    "state": "NH",
+    "zip": "55156"
+  },
+  "contact": {
+    "phone": "(769) 338-8394",
+    "servicePhone": "800476257"
+  },
+  "birthday": "1977-07-08T21:40:35.009Z",
+  "ip": "133.222.114.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Wojoc ahe gakwiwin duvado muujrif jacahzir jipid dosoj noticoki apigah vakzioba efuviw seb. Leh taf si bame ota mop ukahudu id ku ufa vihujmov huksurni conrec. Wudmenan hu ovirifbi rah big leagic toed rojzoku gak bilgoh amimavmu nimija jolcufkes ukemoju ga. Ga kuscu hu werpudnaw cibkeg wu zeh ruucjub miguji juhuh angin ag emci. Wuduruni heupi ulsuj am karrunut nezat vapbefzak wezlaar puco sugnamza tut kac gocultew fipna uneejut tub sus.",
+    "bio": "Evu zu obi ococuti za ecebuub ajpobuf wikalo upunakdol tagugo fufhaw elli ewe puovris juw owsife cijiz ociva. Higvag pefbosah ovuojodaf sil bisveare toasi lihovdo ohe mup uroisnem tehvorut muvokhur atwuep. Vupfubwot jikgaf siwzas ic tizuze kanok nud vevgeccej it cupav mopow ocir seki. Sobom kitdamwac rawikgu kisze ijeuk juho guk nihocfo dirnu girboudo cuze hac. Kirolo bedtiv tediv ejfohdom feb vimija et ogahedow nabler heep omu zo liac iro pifu noijirih huafuiv lamenvig. Jubi aroen cebuhzo vuuvocoj zote oga nefak gajib ikuude mas niuz orotoev jac vadur. Ildatos toh ogbaoc elodo feborur amiurovu puljihaha cu ijoji siiz atru kij sirodsa ab susace bostuwif dannap ha."
+  },
+  "apiKey": "6145c080aae6e009756d082f1da5cc8da895e8edac3f88cdc2206b2ab6e9b3ee",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
