@@ -1,0 +1,26 @@
+{
+  "name": "Roger Hodges",
+  "age": 26,
+  "address": {
+    "street": "Ezisip Mill",
+    "city": "Jikmiko",
+    "state": "CT",
+    "zip": "58557"
+  },
+  "contact": {
+    "phone": "(207) 235-5562",
+    "servicePhone": "800553326"
+  },
+  "birthday": "2005-09-21T19:48:38.887Z",
+  "ip": "149.145.71.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Pavawodub hool wod hiruubi meb colfu tu edidofhu tu sejamed kog uklakuf go tuj zapzu pojar. Wu vuj unu dojki gigkuztit pej agaru urzo ow pac sef bu hitwazwa like veit. Siog fianjon hefjelaj vu kig apo we dihuscu wezcufur sonugeuvu ibizidod emevuzbag ef.",
+    "bio": "Vaalazi gabiw wil anezuz rerjuver sew jucvif bigon owulijes afe ire ciitiina vesurca bavvu. Ninenug bac zapelon un posad magovi ko elheve arizuoma lerbale vujat zerbuv so. Faj iswaefe caw molceljo ico davja tem hesrac naivuduj guwugjun mi kadmon petawahet ozmovico amto caj tom. Vevfe bekekcuw tamo kifukuve nurbibi zac oneru ucumu uz bi rikkeep zinlot nufmol wummib ega tagehe. Cef daje helu vavaib arecigra etomejup zon pud ewuwibesi jutlauc toar ticejaen gegel. Ocadefo os bucuhcez led paedaaz ko fam sejozo iha gib pu ag zameb macatum. Abkurpo mefawi linzuklu danavo celiku lato enpi anfihvu govsaul agriznuv asi usi isagum ga bediv icaroise cemwirur."
+  },
+  "apiKey": "ae761479785efa79c05f12fc1fa4f3efe50aab9641dc03a90eda5076827c86a0",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
