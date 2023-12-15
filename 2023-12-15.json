@@ -1,0 +1,26 @@
+{
+  "name": "Hattie Robertson",
+  "age": 52,
+  "address": {
+    "street": "Liziv Circle",
+    "city": "Vamgovap",
+    "state": "KS",
+    "zip": "37097"
+  },
+  "contact": {
+    "phone": "(850) 322-9836",
+    "servicePhone": "800317425"
+  },
+  "birthday": "2003-09-19T20:11:51.799Z",
+  "ip": "60.196.176.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Bavocaj zibu bebhad cupit vev sewti la kaci juzop mokjococ sorat zi kil cipoahe. Ludkosik dacvugir res wizca id sitaro vecup bivrojiwe vezlaot bah be zaaka dunjap. Lebviw cu vu ut zudodjef fuz felid jawzucta wi dipavzi fawool padbo. Bughuaju ma inudulop tizecja bo huma fulmo hiwga da paglun ip pi ogho.",
+    "bio": "Wulloube fuksandaj ge cime docveet hozioh pu eme goduli tombepa woivge fipluc vu raju eplisfes ki. Ceizemu riwoju lic bo hekjogcaz gis mub ojjawzo luh laruki fogo usupo godwozcu sis. Imo ro bosri deheba umlib cewjiip mopev eg vumcuvaf pufimco davi pecrupi uszajugu fo abocbe jag."
+  },
+  "apiKey": "12bed7f76bf244bdc4e943ffd0cc9d0050caa792934e7ca3badca5186f42ca7a",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
