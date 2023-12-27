@@ -1,0 +1,26 @@
+{
+  "name": "Douglas Hodges",
+  "age": 23,
+  "address": {
+    "street": "Rezle Key",
+    "city": "Irviet",
+    "state": "KY",
+    "zip": "84033"
+  },
+  "contact": {
+    "phone": "(341) 352-5444",
+    "servicePhone": "800499924"
+  },
+  "birthday": "1965-05-27T02:03:30.758Z",
+  "ip": "146.164.154.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Ror keg fegri ohro neluj urevaz koguj bizaz fepsamo luhofa evo mizfolal meja egrudoh. Wumabi iwaezoz bi hettu fiz zedatogo famridwo hacohi emejjem rur kiwvin if gu ewzos. Ilwi nojburo apa nigfo jedivdal sa ha kekben olpojmu gur he ewfejac uj abwibab jo heor imo olejifme. Rignil ze toovbi cu mumojke pownujlal lolof beniccag zowisovo pomhir upnoz ut nu lupiva cib esara wugo. Nifek haav gejapet jo picsepte kipfoped poltatsov logtu iba ki gowoksi opamowi.",
+    "bio": "Imowegzan su rilildic geg dodwipteb nujokav meigato duve cihtiw nudhej egli di vodnajun tu ko emhetsuv na. Lebud oboteh nojbaktu bobud wiujieve iza feg difofbu itoepa podabe sas nu akujajfo abeeca. Vongoric mikumu za puvcej ca upjuh pevmo ci pa mo tomu ojrof zijacit lo tib ucanujol ipvimvuv jeckid."
+  },
+  "apiKey": "93123e25cdcc710783e5a44903046b5c3f81d349fa82f313504c21f75f984f80",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
