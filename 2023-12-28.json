@@ -1,0 +1,26 @@
+{
+  "name": "Mason Rice",
+  "age": 25,
+  "address": {
+    "street": "Ulfew Way",
+    "city": "Wasoor",
+    "state": "DE",
+    "zip": "19919"
+  },
+  "contact": {
+    "phone": "(477) 379-5107",
+    "servicePhone": "800327244"
+  },
+  "birthday": "1990-11-13T17:48:21.743Z",
+  "ip": "122.14.93.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Eb osu zifad cuijsar hed humci tusine elava ugna tutmiin maabigik pitihij wurvecaw rib zeuj as jusi cokunodaz. Jihutzab nakotdod jocetni piwake melatapis bicowija maek gac nuzi je pakbic hazkuga gewome nizjaknu. Liwep date tosojra ot re safo maltu mujkumwew fonvece behiile huna egopuwum gitbufiw ja detanu ficu co ovda.",
+    "bio": "Ke zov kacfacwu fesmohop vo sivikkab ri wa sed owva eb lac ovi am hoz ujesre vignul kihgefo. Wozuc zodgupa tol tar majen moekebuz ute bemtejvat dolalepal ewjo fokruw souc ugtijvow gudihoten. Du ju ani muskaful sufsijo penulce zetwah mecaiho daw du uwage dohan ku uf hiro rige jake zipeam. Cacotho linzogev oneapipob bamjaf emdeg ma ozeg kukuf fovafinag bojpu ew zogaw fok zoji ro. Mazrav zaajipe di cuvlag ibe ne uce bo red nagehat wu tacsuini. Licazuzu de omlu wirohwi pigefeza kualjoz amugot faz bukdagle vodrov jilje amawiddo jutuk woizo."
+  },
+  "apiKey": "b4148f3ad0201dc5f07c6c2c576e6569d1c866209e60a506d91e69090f379a79",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
