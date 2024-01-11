@@ -1,0 +1,26 @@
+{
+  "name": "Jim Spencer",
+  "age": 54,
+  "address": {
+    "street": "Iguido Highway",
+    "city": "Kenigad",
+    "state": "DC",
+    "zip": "90420"
+  },
+  "contact": {
+    "phone": "(509) 200-8889",
+    "servicePhone": "800946925"
+  },
+  "birthday": "1960-01-23T12:10:19.060Z",
+  "ip": "201.189.37.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Zi ogmo veem tacogun wudfi icawam zawonko hu fig nokpem zo jahku ucodivi gig ci zav vurta micrepuw. Wepcuz zarlafti wij egrokake heleh tuda pewjur jos ve gurdibi eki ciar lok gatordur az golgutav uzseg. Zed bufuncuw jeh fa voap je sepe pobahuv povjewra dubekjuj wi eho viga las savno waazfe.",
+    "bio": "Mahonin petico musu takri vi cusrinle ado zata tutidniv onouhido wimbondaz deh jo lit bujca ji. Zulbuwuf iza iz robmucmas fu hezok tevodbo adosu hugetu taihelo jazugduh utisul so. Puuromi peruz novwi gu inuwin ijce gu ohjen ka uvesudo ur te kogrimcij getpare jiri raf megtathes vijumjab. Jitpe canroev da guf narsuib nuak pop uh reliol ci no zi vuceetu cumumi ide. Usa azonu de ezizi let deludtu aro pehbogju me cetpual feju inmemuz avwuha narap hekar tatuw rojot co. Guwuje izipejne tu rawefje uhmi ih od eg efatelkul gup ummad rulifna monac te kehtogvun tobkaha vun. Leg nav olvud ela alokal woc sopa onafa uv haasosub kivuforu hoh gujifmal kunovuja."
+  },
+  "apiKey": "d4bcd07e1008de36f149b4a9bc45d9b08dbd6698706010cf0a01224cf5a859ee",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
