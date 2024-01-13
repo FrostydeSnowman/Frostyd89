@@ -1,0 +1,26 @@
+{
+  "name": "Juan Ruiz",
+  "age": 63,
+  "address": {
+    "street": "Wavul Street",
+    "city": "Licpogu",
+    "state": "NM",
+    "zip": "32244"
+  },
+  "contact": {
+    "phone": "(785) 736-2653",
+    "servicePhone": "800753512"
+  },
+  "birthday": "1959-09-04T21:18:59.178Z",
+  "ip": "2.111.13.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Gifi fateja wahiatu powjevov ri luzzaw gakmaz zafgi wogi bu diwo vek. Muspafa diwi ma ivfizlow majuw moh hepdaaj sosjo titesu sor igaapo avwi. Nazi kowepge oja nuj jarepi ufizene wirup mu jorod ofsotoj to wob wokvuj cekgan.",
+    "bio": "Haalso wekra zizaco eniom devis bevhob fuhiaz zonaicu emomuwge bu ni egeric. Kikenavi baoj puhso hu zirdako wa momuktew ohtes ik afmervav el bahudaac. Lef det aha rewevbef woclivew sid bef fo co sejiluafo sufit zaha unatuova gol. Ug va wa palmof zokfeel venoc sir ki rehgulir fov ijzipkol num jo. Iszabso mujlum pobil giloj wivo wef ve elopa fathuna vefbefhum totagih carofap vu zewef. Rit badrup ulemo sajobiva te po lojuifo iv ti movgunu zecvo ohhif."
+  },
+  "apiKey": "ffc1341ab3cdd5e9741274c9137edc7b98de8591b53449ff2559c40f45043b70",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
