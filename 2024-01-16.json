@@ -1,0 +1,26 @@
+{
+  "name": "Edwin Bridges",
+  "age": 46,
+  "address": {
+    "street": "Adla Trail",
+    "city": "Kuhkiwput",
+    "state": "DE",
+    "zip": "94531"
+  },
+  "contact": {
+    "phone": "(263) 342-2358",
+    "servicePhone": "800553123"
+  },
+  "birthday": "2006-10-23T09:11:40.142Z",
+  "ip": "67.127.205.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Posasca vigag ecvososi faug im uciipi vubasha espewra za lat gewajo matapbi soztihi. Fodfu wuvzoele piumifi ga wechesor de egisedfil keene dawiza kemok bajoba gafdafe bodeprag wik gikzoh. Kouw igi refo jeki lom imi gohehe owguzsor pohazu veggij likigiaka juffirbo.",
+    "bio": "Cuwamkuv pa piwkodudo egafe haf linmozlu zita ah di cu eli ud rez to. Move bujtojib rew juciocu go jiwudno rucawim rosa nufibu ula nafunzej kefhulgij zif avapihjik piij mub. Evini dekovkol jekmu dise ga coffu fep cezvuwbev na bavhu gigrodu gacudal oca ipeocoid."
+  },
+  "apiKey": "13a89122a1d23b7a4bcd6a81e9c599738f0c12fd3b0de716b4cd7c55c2e1e6f7",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
