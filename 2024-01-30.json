@@ -1,0 +1,26 @@
+{
+  "name": "Steven Hodges",
+  "age": 21,
+  "address": {
+    "street": "Teczor Circle",
+    "city": "Ejpasot",
+    "state": "IN",
+    "zip": "64119"
+  },
+  "contact": {
+    "phone": "(746) 260-7190",
+    "servicePhone": "800252273"
+  },
+  "birthday": "1976-08-13T18:58:14.403Z",
+  "ip": "235.68.3.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Bure ni momkiz ku kidemil lulciru pezas sotho vir di juor rijerina gir ketip fig. Fuc hij bitascoz poowzi rilwiwnu tofudi nujekulop kozri vimcu gabfih nosinak ahihuw mosja sez efulu leru. Cag ja lib uv sebra jirbuwu lomosid sefhih gaj ud bulkowu soiba nuwdat. Tej icu sopa hozab sek keruvne anijeka hocfeg govuzzof gimere eltu liij ridvuk umrej zi.",
+    "bio": "Rekir huk jeve ceva osuwawru igel cotdelu ze dewahpu ibe hiwnouce rubrofuz dov ca vobutuw tejaw ogibude poarado. Muhte ri rofocu vogu riwdawap kitlihig if kahuflef mo bapi uto utoeguug jub zocvi recefpe jaw. Uphahun bisna cubus non foluf hevowe pe cauf etizusog iskoh valnolo be. Wuce ufalec puhi dur izfikda gulow lolde civkaoji ic fedugjom vizkeozu lezoib wo barpulal irolojele. Mutpeme aze rorzuziwe riwu ivzocmaj neszaome fufobful fuphudde ropodmis hemfos narojsip vacpoige."
+  },
+  "apiKey": "78a6fdc9a73c2b7d05f6b637f6597ca7dec37c8599b788721cec1c2664273135",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
