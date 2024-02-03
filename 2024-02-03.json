@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Hughes",
+  "age": 46,
+  "address": {
+    "street": "Seoti Glen",
+    "city": "Gigmobag",
+    "state": "MI",
+    "zip": "45234"
+  },
+  "contact": {
+    "phone": "(430) 525-4349",
+    "servicePhone": "800544474"
+  },
+  "birthday": "1963-12-26T17:57:25.171Z",
+  "ip": "170.227.113.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Judus majiz vejmis jel li du rogazo vejiri senpit cuzzigen fegew karnicor ahukun hakad so owowof ciwoveti. Nirje sawkobib wuzilboh dimgoznaz filujine kenirlef wet lezre goira li hoojepe judribsak roweven kowovuf mawoc ocawo focduhpar guikwi. Keivgig mohna hitzo to rodeto itevijis ocilaw susom te mukam gih cusec mijikju. Zec wub somot si bosolu sun am meadijol dos nu wo lunsewwus nuper tupjat saca fervan zebom vibhataf.",
+    "bio": "Sa cij gotefip ewbevho juzefo aso huv emnilun ok wu nagmera ub. Zic hadin fe tujuvfu robidlam onuzev cougiuk evse kariluc ilpufjej do pi. Nug pirib pov awualad ver gehci cohi ubehiz caz rukunluj tete itbuj zenwapi futzov gesu."
+  },
+  "apiKey": "a88caa0c7c43a54139072f2051f4133bfe1d6a320a2a933dec0ad388f5dcc0c1",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
