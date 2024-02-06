@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Simmons",
+  "age": 32,
+  "address": {
+    "street": "Tugin Circle",
+    "city": "Kipnence",
+    "state": "MI",
+    "zip": "33298"
+  },
+  "contact": {
+    "phone": "(340) 291-9931",
+    "servicePhone": "800277259"
+  },
+  "birthday": "1964-11-11T11:29:40.735Z",
+  "ip": "199.57.139.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Nidusib zonu ezuda giijeje latosih uwi vecga tef sav ozbub ovgug mezfar azewabeg. Uzeet vu imabapano sog ehanodo rormehra ebugutig rarda ucufiwba ri lotnij kom kimaate oz nukej te lin tih. Evwocub ep wat oh co jeso vofem wanece raga izu vawidwo veztabji guaton joru bu vobizi dela.",
+    "bio": "Lufoac ebu igaaheku itfe tuvfog dese gijpaf hassikeko refuwap ji rucjongo rofzihil vi lezaj. Pem vemopod ujaisiku ade lomuse firmuggin hiron uc fag wo tarwig nugge. Aj hogvek litopzi fuzoce igo uknarwa obo emo fuhfemdam basmuknov odifongab rujol ogapikuge egi vos iv bu."
+  },
+  "apiKey": "7aed5619222b6b6b037682874033665af2e49780e8b4717016931ade8e4c10db",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
