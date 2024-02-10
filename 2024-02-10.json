@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Tate",
+  "age": 22,
+  "address": {
+    "street": "Dufelo Heights",
+    "city": "Rohaga",
+    "state": "IN",
+    "zip": "46026"
+  },
+  "contact": {
+    "phone": "(731) 260-2887",
+    "servicePhone": "800675884"
+  },
+  "birthday": "2006-12-06T16:40:51.802Z",
+  "ip": "61.202.216.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Fa si mikihmif bemaap feznosfuk lueloses enser goecub sego kakdedise to nena wijkuoce nuwzi delodref. Bob coldob uj huan sege nimege bunuj rob to po tol omanaaz. Vool fuf noofe nuje hofifmo kaj ofru cepkeka ivopu cicobu muhifdud it.",
+    "bio": "Okefo kilgu ne ojeabi ovvubo hahasa tamaf nusgub rik ezwedzu dolbocuf piz badi. Zi obucoza tiodesa hutviuj howrab vik dedzo ul ha okacuoso mopce dodvegos ku ikugja zafgas enafudeg bedun wew. Ajo ve pi bikol awciga turkig pum hu vigasmo ozpo nuh hondij neg tolup. Sewho geipowo devli voomu wewir go ku gubudu umejujuz roc mucpidu fugkuas ripivu."
+  },
+  "apiKey": "c8888cc9a3eaabe2bfc7a98efbdcdeb5c312924b2e0ba14619eff6a2c42ab0ed",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
