@@ -1,0 +1,26 @@
+{
+  "name": "Lora Jenkins",
+  "age": 29,
+  "address": {
+    "street": "Biug Pike",
+    "city": "Vogcusof",
+    "state": "IL",
+    "zip": "06513"
+  },
+  "contact": {
+    "phone": "(404) 305-7723",
+    "servicePhone": "800576637"
+  },
+  "birthday": "1961-06-04T01:28:50.803Z",
+  "ip": "151.25.71.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Tec webeljo dawifi wuosde fo ozirulu sag husa ocdo satwin fop uge rir opbiki. Necupsa ife elujo wimnozu olci re pugbuwke eb vofba awguci pew kowpi zikbi diite jigupor. Uvezeh bewele hip ponpec ewho vugtijid kem poid titahha bifu le romez urerisu lehabmuc kizbajon du takmono gov. Da suda iw aknaz ezoup olbosin doggenwi cirdet parsab kupa erbi haroano jum.",
+    "bio": "Hujjanik hev moctufir totsajug lotbojuh piig umiduze zo adolu icbebo ik liniv urin uvivo adfisjeh. Bifeldu izo rahfintew fu motofgi ruwzun wozud sosutwe fomep zemwibow ugpene fodhe ba. Ja advujub huatho pon og pag viti razkusos izi sebit vitod befib ti komda ku. Ujbohud fefhid epitibod puwetu re cechu ogu sejak fardere figvez cehcojtew fuardu sawhorze opudaew bojaziw mis ukiepbow ho. Or luzi ehevije wuz ci fi alokeg dupda acku uceesi lew ki igo ce puteswa lozun ci ipekawuc."
+  },
+  "apiKey": "1fa9d2e40abcf449f795a772930a77c8b33e45ac986c4931ca19db28f175eaf1",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
