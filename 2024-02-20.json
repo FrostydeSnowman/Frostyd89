@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Pittman",
+  "age": 22,
+  "address": {
+    "street": "Temra Terrace",
+    "city": "Movofoode",
+    "state": "MS",
+    "zip": "46686"
+  },
+  "contact": {
+    "phone": "(649) 396-7157",
+    "servicePhone": "800561623"
+  },
+  "birthday": "1964-11-01T21:13:40.527Z",
+  "ip": "111.106.107.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Hulfa cefefon eg ud guzdid dunumla bi feuwo ligorire ha baizle camano uhekoc rot afbas. Cevwinap newab hu pe biirka bapkuz pe tovufedo gepgij kuh pifpihal cikeklo. Dudbu elougu mofpaw tolva humla kolomcen re zam fuljezu ruhone mafipos dilpaw bokhu ejojebin wuh. Tarurgog kemlako fow hoati ke po zozak toz ik aberudo da taskudu jit lu nenvuw orihvom fobok. Emawe nakasne caner gikbiho bibavli hovzaan abini ap kupah ode lorrutem zekse os an da eskupveg. Zonail vorol he odeopira abi azoutona bomuh vipzahev nodvev ucdimuf ter luwi os be eb ji vove. Zugez nohriwob le epita bunaz bikki cacli ivieku aj zo pushuaco sojpehcuc upeke.",
+    "bio": "Ilsuj ose bakemkok corlode con ban zar nucedle awizuh letho rumerhu ilibasal hoogi apu ovebuw ijje. Ja el borgijnac juruwmec jazda jedsa wumut losoz tuhon na oti mifho tamgeh osumaot. Oc juhe cuki ponukdoz cisjoz huhocre sogpit luwja te be amwu goru rufimu wocparom vamrebiv defih. Mofu ti nafirse zozdomen ulafeto hik ergorzi jipha la beob vurtepisi ezano kevefilaw. Vufues es uk loj zehim dabbef annikji rul dazedig er gujfu muvgom to deaw nagifo. Zu lig he acecupu fe ju voglugeti eho vup nekgodhip razdofoz go uneleref uv cuwven pozuh novepala efaridu. Ur odermo nurego bactup diludu irized jupu pul movecwo jap sojzok jicuc ewsoib rejfemof ziggassa."
+  },
+  "apiKey": "20357b9387eb00b6e07247ffe02b356ab86f7cb25d595f2358b1d2b272587fe5",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
