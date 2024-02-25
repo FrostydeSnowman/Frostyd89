@@ -1,0 +1,26 @@
+{
+  "name": "Jane Jones",
+  "age": 60,
+  "address": {
+    "street": "Kibhej Junction",
+    "city": "Ifgifcu",
+    "state": "NY",
+    "zip": "99026"
+  },
+  "contact": {
+    "phone": "(204) 331-5249",
+    "servicePhone": "800915384"
+  },
+  "birthday": "1968-12-31T06:44:18.435Z",
+  "ip": "205.146.132.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Wamhaf lauffu rasi lisigpu duhi bov dod koccu iw awufebet minniciv udozoav ih ziwav temludok aca osacuhwuk cevwoz. Mube sina hevtalwan gof siw aze motekkap unizag ipepi ohufeki pupiufu fuvejmib vobroh. Ojjew me dojsihnu huisociw cucvajwo kewajo vebiw ikvosbes bakep zegka zesjih roh. Heaja notki du ne anavooj ipoijefim ha awi zahon sam obigori uf ejoeshol ti li wo zo runvucwev.",
+    "bio": "Fihe laz dedkedoh ro ifhohag co itucubi nudot dilehe sebivpah ene si fa nom urezah cibhi. Wa larpi nodho awi hucaw fejcal dujma toas mig mot beokaah uvlijter kacosepak ucsabtov pezejur an omaofegen ka. Rihzas ofbig subredci zi ovi fid ram pag ogsok jemudoje rus cehonuk tacuhe koreja mammaal todarugo pa zufep. Guweape lu ses vadtor civhogol ci lu zak vartuvle kud lifbelsaw givew calos mumbeljot gogizcik niwgipeb ufgu vidupida."
+  },
+  "apiKey": "e25b4d87829a1370867775bff590d6039285c45cfb8a7c0015c390d98e46b735",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
