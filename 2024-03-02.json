@@ -1,0 +1,26 @@
+{
+  "name": "Rebecca Torres",
+  "age": 20,
+  "address": {
+    "street": "Opebiz Point",
+    "city": "Ominocra",
+    "state": "MO",
+    "zip": "39800"
+  },
+  "contact": {
+    "phone": "(519) 927-6246",
+    "servicePhone": "800737877"
+  },
+  "birthday": "1982-08-23T21:43:42.408Z",
+  "ip": "183.206.52.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Donjupwom jivilow otemaav kijok duwmabgow hetep jumade athab mi mutawtit azu colofjal awoavbi evifujo kef towcoih zacoavi. Jipakima jafotoze nizfe vabfikin og biun jipi ba pufkic vissizpo iwzo sizpuv gozej mez dijomid. Imouroip nibi udi gis tawfiw egiuksov urol aza tuadfi ga jaso co jekej sec sa tirgehneb. Vuodaek gohefe sanva upumiit jikumreb pac ro def facofsub ighade vu rut hoshat hi ad ceiba.",
+    "bio": "Ecikal adihekiz kom dunolit makzolar pon edlum opbih gal poji jugulali ta zadovlat. Doguwad arhako zonasop zif vorasu uvca zaliis hatva odivakku zipudoja dubuvu gavupek lahuc zivi fektufrin lebito. Jemab lodleni abaega mulnogsot jolo niceduz hasabufif focicim jivvas sakofpon dede susinopu."
+  },
+  "apiKey": "203dacd2da2899af6f6ff4e18b5c49702b6835c296f9b19f29ef0059611233ba",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
