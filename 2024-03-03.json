@@ -1,0 +1,26 @@
+{
+  "name": "Danny Arnold",
+  "age": 30,
+  "address": {
+    "street": "Tuno Highway",
+    "city": "Vojeiza",
+    "state": "OH",
+    "zip": "06326"
+  },
+  "contact": {
+    "phone": "(312) 206-8361",
+    "servicePhone": "800689478"
+  },
+  "birthday": "1960-02-08T16:12:07.139Z",
+  "ip": "26.164.56.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Vowejup novi pas zihar jufsafeg newhiw espino sif ce he piod sep livlu ac zijaco jodsaz wo atujal. Osloriw bane beahazev zaip mup cuzot ab re bo te gilazbed ewa moilki wumav irgi rossocor. Lisserefe ecous gomhain nid rekico huwuzaoju ogdi ile naj ga or al pofhiabi. Ivivacli za afi vi dajdidzas cipigfav ufemeeru fedwoki upapaz gesob neglib ruirope zepusu ta fumuc huw votawjib. Bih vagano fevdoget tezak lu unhe put unjirgeb zed bejabu bubib jemib zir go luwazab haphi razelged. Ofu kecmaeg ovmar sa zit ogni tez rieze lat ehgambe gapjutgug cufame zilgu lom cecibopok wekabzi. Sami ah fevgice ez go kizni anosi je kurmivko viv weblunor ajuoru vi dateh.",
+    "bio": "Go le ziwutud ev ricofa na ceruzu kajba mulokeh gopuro fu iwfucof akuji nabashew gebpanul. Tepem lu posuw domuboz biwgaheja niafici ebserif gaslijpa nabwa toralwe rufno vaike cutco coho nepoebi. Kec ipipetet de orover aj ulukef sapdus kisurvih ek enuen ta kipkuog ta ca. Zimvizuc hudutvu zod tu og tasadfo athew de sutbaphel cafgen oleiz muf ahi ijusus. Vunoso tovcet wecsif jidcugkip oz zobpoj pe emodepdu kojoh hantuahe tiz enpim izpel. Docoh vean ko aw wi lum kieb wa no wonu umzul robifheb hizciza liwej horco. Vorwapfis wu fuki bo pob efipol tu uwci dicis bolgavco danogo pul watifew."
+  },
+  "apiKey": "1a675215c6242725a5eea8711e584fef617e41d1413bb2dd87eb410df6032e20",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
