@@ -1,0 +1,26 @@
+{
+  "name": "Norman Washington",
+  "age": 24,
+  "address": {
+    "street": "Zezi Park",
+    "city": "Saposuv",
+    "state": "VT",
+    "zip": "70979"
+  },
+  "contact": {
+    "phone": "(313) 763-4257",
+    "servicePhone": "800644119"
+  },
+  "birthday": "1999-04-17T14:33:47.344Z",
+  "ip": "171.83.225.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Zaz urifuzfij libut soghi bepwon ke bizifca asaso fo ih lujec owu mi tilmi jojno ma guamolob di. Iza ek piczef onu urekipo emubud fokewso uwu dir kep tuzpik jal. Nenozi jijcu reridoj lezlu wuniwpu foreb wokowib bu to bok gowa riwom.",
+    "bio": "Wolo ofipo robefar soihud be ehi vojiwca racdin tipafse relin renuran ebedu wiz. Vo zeobzel ezopebho avfur sa hutvuraf bov uletette go rilpajbaj wu difjaetu va. Rijcofa racof wozzo relade futepdi heb modom eluctur zet uknuufe guc cof lik do kepdi rutimki. Sazewgo fuvlu gehu lahe oto eta wepi huje tukojbad zabtil wug nokadko elfa vuctip jurcucgar cujgabjoc."
+  },
+  "apiKey": "84549f7b28ba975961f9a53831b9d427f9ce60887b86f379c9c45bc343cf3c1f",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
