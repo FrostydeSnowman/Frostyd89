@@ -1,0 +1,26 @@
+{
+  "name": "Mike Long",
+  "age": 22,
+  "address": {
+    "street": "Boet Mill",
+    "city": "Odihugot",
+    "state": "FL",
+    "zip": "77970"
+  },
+  "contact": {
+    "phone": "(784) 859-4196",
+    "servicePhone": "800557581"
+  },
+  "birthday": "1980-08-24T03:01:25.067Z",
+  "ip": "37.124.225.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Ul donfigzu ej co duokoje noprap ul hu mucomini me fil epuzare. Rumogugi ebi linde jusuf ope ca up nafekuop cagohtec mowuf kuntotlem atawo depsuifi zagujozi foltap wukcajo naceg. Bomo me fifbu hehmuine sug tewilad coiku jefupu ziw da jehpim vusikni. Witir ogueniut ipewi zion tizvero ji zoroov ter hen nehku nilwaba ohetap ozuza.",
+    "bio": "Todoom kom fohrof sac opdukaw decompuh ziki fad oga ewu ku bor zutetu heldo barniz pu. Nosfe ga izoige majok seskun hudkof na ikgiko ek lustetga gi ciiheir tise lu dankaf deiv gapsav. Anani viw vuvi cimgip vana zumugpo zajo zihcium dif dokjompam cefparo cuf sizdapup ahapame von lugo ubede ibmi."
+  },
+  "apiKey": "b7a59d5703ff39309c600b77bd5c8f16b97ab28e2584c98c2cfb74ba78612306",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
